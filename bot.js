@@ -18,7 +18,7 @@ client.on('ready', () => {
 
   console.log(`Logged in as ${client.user.tag}!`);
 
-client.user.setGame(`Coming Soon Bots G `,"http://twitch.tv/S-F")
+client.user.setGame(`HBot Coming Soon ... `,"http://twitch.tv/S-F")
 
 client.user.setStatus("dnd")
 
